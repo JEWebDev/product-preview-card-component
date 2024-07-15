@@ -29,8 +29,8 @@ Mobile design ![](images/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-with-html-and-css-AxyveW-KaY)
+- Live Site URL: [Live Demo](https://jewebdev.github.io/product-preview-card-component/)
 
 ## My process
 
